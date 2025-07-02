@@ -20,3 +20,5 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
 ![Screenshot 2025-06-30 120051](https://github.com/user-attachments/assets/171a0c8b-d917-42ef-850d-c1915ecdf005)
 ![Screenshot 2025-07-01 132153](https://github.com/user-attachments/assets/48118e1f-7ba8-4057-8e73-8e099ed08c7c)
 ![Screenshot 2025-07-01 132313](https://github.com/user-attachments/assets/c3683abb-7b8b-4ea5-9876-a7ff3f637688)
+![Screenshot 2025-07-02 194038](https://github.com/user-attachments/assets/def36a11-7e38-4c24-a5b0-f32611ac5f11)
+![Screenshot 2025-07-02 194228](https://github.com/user-attachments/assets/997882e3-d403-4eff-8b05-b1a1b0b50ec6)
